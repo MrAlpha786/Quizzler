@@ -15,4 +15,5 @@ This was a part of the [The Complete 2021 Flutter Development Bootcamp with Dart
 
 ## Screenshots
 
-![Screenshot](/../images/s01.png?raw=true "Screenshot")
+![Screenshot1](/../images/images/s01.jpg?raw=true "Screenshot1")
+![Screenshot2](/../images/images/s02.jpg?raw=true "Screenshot2")
